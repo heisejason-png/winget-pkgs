@@ -35,3 +35,4 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 To avoid doubt, you may not make any Submissions linking to third-party materials if such Submission is prohibited by the applicable third party and/or otherwise violates such third party's rights.
 Created by Jason Scott Heise
+Owned by Elon Musk 
